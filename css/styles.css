@@ -1,1 +1,28 @@
+#head {
+		background : url("../img/milkbg.jpg") no-repeat;
+		background-size: cover;
+		height: 400px;
+		padding: 70px;
+	}
 
+	#maintitle .jumbotron {
+		color: white;
+		background-color: rgba(0, 0, 0, 0.60);
+		max-width: 500px;
+		margin: 0 auto;
+	}
+
+	#cookie {
+		max-width: 250px;
+	}
+
+	.aboutus {
+		background-color: rgb(200,200,200);
+
+
+	}
+
+	.contactus {
+		background-color: #6699FF;
+		color: white;
+	}
