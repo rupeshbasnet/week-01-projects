@@ -18,11 +18,18 @@
 
 	.aboutus {
 		background-color: rgb(200,200,200);
-
+		padding: 0 0 30px 0;
 
 	}
 
 	.contactus {
 		background-color: #6699FF;
 		color: white;
+		padding: 0 0 30px 0;
+	}
+
+	#blueimg {
+		max-width: 100%;
+		width: auto;
+		height: auto;
 	}
